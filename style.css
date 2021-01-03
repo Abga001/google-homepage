@@ -1,0 +1,36 @@
+.headertop {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  .footerbtm {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+  li {
+    display: inline;
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #ffffff;
+  }
+
+  header {
+
+  }
